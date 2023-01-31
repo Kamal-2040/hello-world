@@ -48,9 +48,9 @@ button {
     <center> <h1> New customer Login Form </h1> </center>   
     <form>  
         <div class="container">   
-            <label>Username : </label>   
+            <label> Enter Username : </label>   
             <input type="text" placeholder="Enter Username" name="username" required>  
-            <label>Password : </label>   
+            <label> Enter Password : </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
             <button type="submit">Login</button> 
 	    <br>
